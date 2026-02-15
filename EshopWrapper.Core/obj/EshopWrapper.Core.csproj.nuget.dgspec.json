@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Idan Eldar\\Documents\\development\\EshopWrapper\\EshopWrapper.Core\\EshopWrapper.Core.csproj": {}
+    "C:\\Users\\ovadia\\source\\repos\\EshopWrapper\\EshopWrapper.Core\\EshopWrapper.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Idan Eldar\\Documents\\development\\EshopWrapper\\EshopWrapper.Core\\EshopWrapper.Core.csproj": {
+    "C:\\Users\\ovadia\\source\\repos\\EshopWrapper\\EshopWrapper.Core\\EshopWrapper.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Idan Eldar\\Documents\\development\\EshopWrapper\\EshopWrapper.Core\\EshopWrapper.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ovadia\\source\\repos\\EshopWrapper\\EshopWrapper.Core\\EshopWrapper.Core.csproj",
         "projectName": "EshopWrapper.Core",
-        "projectPath": "C:\\Users\\Idan Eldar\\Documents\\development\\EshopWrapper\\EshopWrapper.Core\\EshopWrapper.Core.csproj",
-        "packagesPath": "C:\\Users\\Idan Eldar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Idan Eldar\\Documents\\development\\EshopWrapper\\EshopWrapper.Core\\obj\\",
+        "projectPath": "C:\\Users\\ovadia\\source\\repos\\EshopWrapper\\EshopWrapper.Core\\EshopWrapper.Core.csproj",
+        "packagesPath": "C:\\Users\\ovadia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ovadia\\source\\repos\\EshopWrapper\\EshopWrapper.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Idan Eldar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ovadia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

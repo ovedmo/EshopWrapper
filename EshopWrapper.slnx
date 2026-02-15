@@ -1,2 +1,4 @@
 <Solution>
+  <Project Path="EshopWrapper.Api/EshopWrapper.Api.csproj" />
+  <Project Path="EshopWrapper.Core/EshopWrapper.Core.csproj" />
 </Solution>
