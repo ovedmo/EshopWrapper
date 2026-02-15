@@ -1,0 +1,11 @@
+C:\Users\Idan Eldar\Documents\development\EshopWrapper\EshopWrapper.Core\bin\Debug\net10.0\EshopWrapper.Core.deps.json
+C:\Users\Idan Eldar\Documents\development\EshopWrapper\EshopWrapper.Core\bin\Debug\net10.0\EshopWrapper.Core.dll
+C:\Users\Idan Eldar\Documents\development\EshopWrapper\EshopWrapper.Core\bin\Debug\net10.0\EshopWrapper.Core.pdb
+C:\Users\Idan Eldar\Documents\development\EshopWrapper\EshopWrapper.Core\obj\Debug\net10.0\EshopWrapper.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idan Eldar\Documents\development\EshopWrapper\EshopWrapper.Core\obj\Debug\net10.0\EshopWrapper.Core.AssemblyInfoInputs.cache
+C:\Users\Idan Eldar\Documents\development\EshopWrapper\EshopWrapper.Core\obj\Debug\net10.0\EshopWrapper.Core.AssemblyInfo.cs
+C:\Users\Idan Eldar\Documents\development\EshopWrapper\EshopWrapper.Core\obj\Debug\net10.0\EshopWrapper.Core.csproj.CoreCompileInputs.cache
+C:\Users\Idan Eldar\Documents\development\EshopWrapper\EshopWrapper.Core\obj\Debug\net10.0\EshopWrapper.Core.dll
+C:\Users\Idan Eldar\Documents\development\EshopWrapper\EshopWrapper.Core\obj\Debug\net10.0\refint\EshopWrapper.Core.dll
+C:\Users\Idan Eldar\Documents\development\EshopWrapper\EshopWrapper.Core\obj\Debug\net10.0\EshopWrapper.Core.pdb
+C:\Users\Idan Eldar\Documents\development\EshopWrapper\EshopWrapper.Core\obj\Debug\net10.0\ref\EshopWrapper.Core.dll
