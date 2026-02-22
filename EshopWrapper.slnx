@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="EshopWrapper.Api.UnitTests/EshopWrapper.Api.UnitTests.csproj" Id="6a8dcae6-0f47-416a-9193-f9565d308338" />
   <Project Path="EshopWrapper.Api/EshopWrapper.Api.csproj" />
   <Project Path="EshopWrapper.Core/EshopWrapper.Core.csproj" />
 </Solution>
